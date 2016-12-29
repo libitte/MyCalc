@@ -12,6 +12,8 @@
 		2BA72D681E1503B900B559DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BA72D661E1503B900B559DB /* Main.storyboard */; };
 		2BA72D6A1E1503B900B559DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BA72D691E1503B900B559DB /* Assets.xcassets */; };
 		2BA72D6D1E1503B900B559DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BA72D6B1E1503B900B559DB /* LaunchScreen.storyboard */; };
+		2BA72D751E1517E000B559DB /* PercentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA72D741E1517E000B559DB /* PercentViewController.swift */; };
+		2BA72D771E151BAB00B559DB /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BA72D761E151BAB00B559DB /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		2BA72D691E1503B900B559DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BA72D6C1E1503B900B559DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BA72D6E1E1503B900B559DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BA72D741E1517E000B559DB /* PercentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PercentViewController.swift; sourceTree = "<group>"; };
+		2BA72D761E151BAB00B559DB /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				2BA72D621E1503B800B559DB /* AppDelegate.swift */,
 				2BA72D641E1503B800B559DB /* ViewController.swift */,
 				2BA72D661E1503B900B559DB /* Main.storyboard */,
+				2BA72D741E1517E000B559DB /* PercentViewController.swift */,
+				2BA72D761E151BAB00B559DB /* ResultViewController.swift */,
 				2BA72D691E1503B900B559DB /* Assets.xcassets */,
 				2BA72D6B1E1503B900B559DB /* LaunchScreen.storyboard */,
 				2BA72D6E1E1503B900B559DB /* Info.plist */,
@@ -139,6 +145,8 @@
 			files = (
 				2BA72D651E1503B800B559DB /* ViewController.swift in Sources */,
 				2BA72D631E1503B800B559DB /* AppDelegate.swift in Sources */,
+				2BA72D751E1517E000B559DB /* PercentViewController.swift in Sources */,
+				2BA72D771E151BAB00B559DB /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
